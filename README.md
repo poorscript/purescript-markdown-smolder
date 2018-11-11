@@ -1,4 +1,4 @@
-# purescript-markdown-smolder
+# purescript-slamdown-smolder
 
 [![Pursuit](https://pursuit.purescript.org/packages/purescript-markdown-smolder/badge)](https://pursuit.purescript.org/hgiasac/purescript-markdown-smolder)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/staltz/comver)
@@ -8,6 +8,13 @@ This library is forked from [original one][3], with up-to-date dependencies and 
 
 * HTML class for markups `ul`, `ol`, `p`, `h1`, `h2`,...
 * Customized code block renderer 
+
+
+## Installation
+
+```
+bower install purescript-slamdown-smolder
+```
 
 ## Example 
 
