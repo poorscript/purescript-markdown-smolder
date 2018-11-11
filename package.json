@@ -1,6 +1,5 @@
 {
   "name": "purescript-markdown-smolder",
-  "private": true,
   "description": "Render purescript-markdown to purescript-smolder.",
   "main": "index.js",
   "scripts": {
@@ -9,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/alexmingoia/purescript-markdown-smolder.git"
+    "url": "git://github.com/hgiasac/purescript-markdown-smolder.git"
   },
   "keywords": [
     "markdown",
     "purescript",
     "smolder"
   ],
-  "author": "Alexander C. Mingoia",
+  "author": "Toan Nguyen",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/alexmingoia/purescript-markdown-smolder/issues"
+    "url": "https://github.com/hgiasac/purescript-markdown-smolder/issues"
   },
-  "homepage": "https://github.com/alexmingoia/purescript-markdown-smolder#readme",
+  "homepage": "https://github.com/hgiasac/purescript-markdown-smolder#readme",
   "devDependencies": {
     "purescript": "^0.12.0"
   },

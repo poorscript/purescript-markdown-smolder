@@ -3,7 +3,8 @@
   "description": "Render purescript-markdown to purescript-smolder.",
   "main": "index.js",
   "authors": [
-    "Alexander C. Mingoia"
+    "Alexander C. Mingoia",
+    "Toan Nguyen"
   ],
   "license": "Apache-2.0",
   "keywords": [
@@ -13,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/alexmingoia/purescript-markdown-smolder.git"
+    "url": "git://github.com/hgiasac/purescript-markdown-smolder.git"
   },
   "moduleType": [],
   "ignore": [
     "node_modules",
     "bower_components"
   ],
-  "homepage": "https://github.com/alexmingoia/purescript-markdown-smolder",
+  "homepage": "https://github.com/hgiasac/purescript-markdown-smolder",
   "dependencies": {
     "purescript-markdown": "^12.0.0",
     "purescript-smolder": "^11.0.1",
