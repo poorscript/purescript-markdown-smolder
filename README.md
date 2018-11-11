@@ -1,6 +1,6 @@
 # purescript-slamdown-smolder
 
-[![Pursuit](https://pursuit.purescript.org/packages/purescript-markdown-smolder/badge)](https://pursuit.purescript.org/hgiasac/purescript-markdown-smolder)
+[![Pursuit](https://pursuit.purescript.org/packages/purescript-markdown-smolder/badge)](https://pursuit.purescript.org/packages/purescript-markdown-smolder)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/staltz/comver)
 [![Build Status](https://travis-ci.org/hgiasac/purescript-markdown-smolder.svg?branch=master)](https://travis-ci.org/hgiasac/purescript-markdown-smolder)
 
