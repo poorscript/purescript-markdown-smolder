@@ -23,7 +23,7 @@
   ],
   "homepage": "https://github.com/hgiasac/purescript-markdown-smolder",
   "dependencies": {
-    "purescript-markdown": "^12.0.0",
+    "purescript-markdown": "git@github.com:poorscript/purescript-markdown-smolder",
     "purescript-smolder": "^11.0.1",
     "purescript-ordered-collections": "^1.4.0"
   },
